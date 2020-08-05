@@ -1,0 +1,100 @@
+{
+  "get_flu_per_country": [
+    {
+      "Country": "Norway", 
+      "MostActiveInfluenza": "ANOTSUBTYPED", 
+      "NumberOfSpecimenProcessed": 200934, 
+      "TotalNumberOfInfluenzaPositiveVirus": 22282, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 2545, 
+      "Total_AH3": 2070, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 16753, 
+      "Year": 2019
+    }, 
+    {
+      "Country": "Finland", 
+      "MostActiveInfluenza": "AH1N12009", 
+      "NumberOfSpecimenProcessed": 397, 
+      "TotalNumberOfInfluenzaPositiveVirus": 196, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 96, 
+      "Total_AH3": 90, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 0, 
+      "Year": 2019
+    }, 
+    {
+      "Country": "Sweden", 
+      "MostActiveInfluenza": "ANOTSUBTYPED", 
+      "NumberOfSpecimenProcessed": 50774, 
+      "TotalNumberOfInfluenzaPositiveVirus": 7202, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 266, 
+      "Total_AH3": 448, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 3882, 
+      "Year": 2020
+    }, 
+    {
+      "Country": "Denmark", 
+      "MostActiveInfluenza": "ANOTSUBTYPED", 
+      "NumberOfSpecimenProcessed": 47691, 
+      "TotalNumberOfInfluenzaPositiveVirus": 6559, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 717, 
+      "Total_AH3": 1416, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 3711, 
+      "Year": 2020
+    }, 
+    {
+      "Country": "Norway", 
+      "MostActiveInfluenza": "ANOTSUBTYPED", 
+      "NumberOfSpecimenProcessed": 125832, 
+      "TotalNumberOfInfluenzaPositiveVirus": 13449, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 602, 
+      "Total_AH3": 966, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 6423, 
+      "Year": 2020
+    }, 
+    {
+      "Country": "Denmark", 
+      "MostActiveInfluenza": "ANOTSUBTYPED", 
+      "NumberOfSpecimenProcessed": 69607, 
+      "TotalNumberOfInfluenzaPositiveVirus": 11835, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 1829, 
+      "Total_AH3": 1361, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 8454, 
+      "Year": 2019
+    }, 
+    {
+      "Country": "Finland", 
+      "MostActiveInfluenza": "AH1N12009", 
+      "NumberOfSpecimenProcessed": 191, 
+      "TotalNumberOfInfluenzaPositiveVirus": 69, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 50, 
+      "Total_AH3": 6, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 0, 
+      "Year": 2020
+    }, 
+    {
+      "Country": "Sweden", 
+      "MostActiveInfluenza": "ANOTSUBTYPED", 
+      "NumberOfSpecimenProcessed": 84041, 
+      "TotalNumberOfInfluenzaPositiveVirus": 13823, 
+      "Total_AH1": 0, 
+      "Total_AH1N12009": 344, 
+      "Total_AH3": 171, 
+      "Total_AH5": 0, 
+      "Total_ANOTSUBTYPED": 13014, 
+      "Year": 2019
+    }
+  ]
+}
